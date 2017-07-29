@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "752413206862",
+    "firebase_url": "https://hospital-d31c0.firebaseio.com",
+    "project_id": "hospital-d31c0",
+    "storage_bucket": "hospital-d31c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752413206862:android:0fa8640ecb079731",
+        "android_client_info": {
+          "package_name": "in.abhilash.ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752413206862-bb5ub34pa8ub0g1fj6bt6jnanrtsl0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm0yUD7WtfzaohK_dL8FpBX9plmdtXATI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
