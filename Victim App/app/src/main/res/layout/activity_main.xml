@@ -8,7 +8,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="in.abhilash.helpme.MainActivity">
+    tools:context="com.salman.helpme.MainActivity">
 
     <TextView
         android:id="@+id/latTextView"
